@@ -3,11 +3,15 @@
 # Hello, I'm Dmitriy 👋
 ## Data Scientist \ Data Analyst 
 
+<div align="center">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ditengm&repo=KarpovCourses&theme=midnight-purple)](https://github.com/ditengm/KarpovCourses)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ditengm&repo=HackatonNanosemantics&theme=midnight-purple)](https://github.com/ditengm/HackatonNanosemantics)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ditengm&repo=ResearchPharma&theme=midnight-purple)](https://github.com/ditengm/ResearchPharma)
+
+</div>
 
 
 ## Languages and tools
