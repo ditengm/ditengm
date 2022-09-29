@@ -16,7 +16,7 @@
 
 <div align="center">
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ditengm&repo=KarpovCourses&theme=midnight-purple)](https://github.com/ditengm/KarpovCourses)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ditengm&repo=HackatonNanosemantics&theme=midnight-purple)](https://github.com/ditengm/HackatonNanosemantics)
 
