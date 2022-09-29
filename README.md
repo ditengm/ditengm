@@ -9,20 +9,19 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=FFFFFF&width=470&height=60&lines=Data+Scientist+%5C+Data+Analyst+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=FFFFFF&width=470&height=50&lines=Data+Scientist+%5C+Data+Analyst+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
+- ### I enjoy training machine learning models, finding features in data, and building nice looking graphs. I also like to analyze data using statistical methods to validate hypotheses. Roughly speaking, I am in love with Data Science)
 
-<div align="center">
+- ### I regularly participate in Data Science hackathons and programming competitions, attend conferences and meetups on data analysis.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ditengm&repo=KarpovCourses&theme=midnight-purple)](https://github.com/ditengm/KarpovCourses)
+- ### In my free time, I go in for sports, watch films in English, read scientific books and articles. And I just like to have a good time with friends)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ditengm&repo=HackatonNanosemantics&theme=midnight-purple)](https://github.com/ditengm/HackatonNanosemantics)
+- ### My telegram channel: https://t.me/eboutdatascience
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ditengm&repo=ResearchPharma&theme=midnight-purple)](https://github.com/ditengm/ResearchPharma)
-
-</div>
+- ### Top project in pin
 
 
 ## Languages and tools 🔧
