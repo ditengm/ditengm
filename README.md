@@ -1,6 +1,7 @@
 ![Header](https://github.com/ditengm/ditengm/blob/main/assets/OrneryJitteryHorsechestnutleafminer-size_restricted.gif?raw=true)
 
-About me
+# Hello, I'm Dmitriy 👋
+## Junior Data Scientist\Data Analyst 
 
 Hackatons
 
