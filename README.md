@@ -1,7 +1,10 @@
 ![Header](https://github.com/ditengm/ditengm/blob/main/assets/OrneryJitteryHorsechestnutleafminer-size_restricted.gif?raw=true)
 
 # Hello, I'm Dmitriy 👋
-## Data Scientist \ Data Analyst 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&pause=1000&color=FFFFFF&width=650&height=80&lines=Data+Scientist+%5C+Data+Analyst+%F0%9F%94%A5)](https://git.io/typing-svg)
+
 
 <div align="center">
 
@@ -14,7 +17,7 @@
 </div>
 
 
-## Languages and tools
+## Languages and tools 🔧
 
 <div align="center">
 
@@ -30,7 +33,7 @@
 
 </div>
 
-## Follow me
+## Follow me 👀
 
 <div align="center">
 
