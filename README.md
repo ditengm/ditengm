@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=FFFFFF&width=650&height=80&lines=Data+Scientist+%5C+Data+Analyst+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=FFFFFF&width=470&height=60&lines=Data+Scientist+%5C+Data+Analyst+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
