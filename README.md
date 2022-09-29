@@ -31,3 +31,5 @@ Hackatons
 [![Vkontakte](https://img.shields.io/badge/Instagram-0b0038?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/dsvlko)
 
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ditengm&theme=midnight-purple&show_icons=true)
