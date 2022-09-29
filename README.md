@@ -6,6 +6,7 @@
 Hackatons
 
 ### Languages and tools
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9)
@@ -20,6 +21,13 @@ Hackatons
 
 </div>
 
+### Follow me
 
+<div align="center">
 
-Follow me
+[![LinkedIn](https://img.shields.io/badge/linkedin-0b0038?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriysavelko/)
+[![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ditengm)
+[![Instagram](https://img.shields.io/badge/Instagram-0b0038?style=for-the-badge&logo=Instagram&logoColor=#ab46e3)](https://www.instagram.com/ditengm/)
+[![Vkontakte](https://img.shields.io/badge/Instagram-0b0038?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/dsvlko)
+
+</div>
