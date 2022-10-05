@@ -1,4 +1,4 @@
-![Header](https://github.com/ditengm/ditengm/blob/main/assets/OrneryJitteryHorsechestnutleafminer-size_restricted.gif?raw=true)
+![Header](https://github.com/ditengm/ditengm/blob/main/assets/ezgif-2-2e88184649.gif?raw=true)
 
 <div align="center">
 
