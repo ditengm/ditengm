@@ -13,15 +13,15 @@
 
 </div>
 
-- ### I enjoy training machine learning models, finding features in data, and building nice looking graphs. I also like to analyze data using statistical methods to validate hypotheses. Roughly speaking, I am in love with Data Science)
+-  I enjoy training machine learning models, finding features in data, and building nice looking graphs. I also like to analyze data using statistical methods to validate hypotheses. Roughly speaking, I am in love with Data Science)
 
-- ### I regularly participate in Data Science hackathons and programming competitions, attend conferences and meetups on data analysis.
+-  I regularly participate in Data Science hackathons and programming competitions, attend conferences and meetups on data analysis.
 
-- ### In my free time, I go in for sports, watch films in English, read scientific books and articles. And I just like to have a good time with friends)
+-  In my free time, I go in for sports, watch films in English, read scientific books and articles. And I just like to have a good time with friends)
 
-- ### My telegram channel: https://t.me/eboutdatascience
+-  My telegram channel: https://t.me/eboutdatascience
 
-- ### Top project in pin
+-  Top project in pin
 
 
 ## Languages and tools 🔧
