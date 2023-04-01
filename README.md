@@ -9,13 +9,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=FFFFFF&width=470&height=50&lines=Data+Scientist+%5C+Data+Analyst+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=%F0%9F%94%A5+Data+Scientist+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
--  I enjoy training machine learning models, finding features in data, and building nice looking graphs. I also like to analyze data using statistical methods to validate hypotheses. Roughly speaking, I am in love with Data Science)
+-  I work as a research-engineer in Data Science. At the moment I am developing a recommender system in the GID, I focus on NLP, I love transformers, encoders, decoders and many other SOTA things.
 
--  I regularly participate in Data Science hackathons and programming competitions, attend conferences and meetups on data analysis.
+-  I regularly participate in Data Science hackathons and programming competitions, attend conferences and meetups on data science.
 
 -  In my free time, I go in for sports, watch films in English, read scientific books and articles. And I just like to have a good time with friends)
 
