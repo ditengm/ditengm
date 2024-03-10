@@ -19,8 +19,6 @@
 
 -  In my free time, I go in for sports, watch films in English, read scientific books and articles. And I just like to have a good time with friends)
 
--  My telegram channel: https://t.me/eboutdatascience
-
 -  Top project in pin
 
 
