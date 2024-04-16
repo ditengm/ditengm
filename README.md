@@ -13,14 +13,18 @@
 
 </div>
 
--  I work as a research-engineer in Data Science. At the moment I am developing a recommender system in the GID, I focus on NLP, I love transformers, encoders, decoders and many other SOTA things.
+Hey!
+- I am a Deep Learning Engineer-Researcher with 3 years of experience. Whether it's Machine Learning, Deep Learning, NLP/LLM, Computer Vision, or high-load system architecture, I'm dedicated to exploring and mastering these domains.
 
--  I regularly participate in Data Science hackathons and programming competitions, attend conferences and meetups on data science.
+- I also have experience leading AI teams and executing client projects, from researching the target audience and writing technical specifications to building ML systems and validating models. As a result, I am well-versed in both business tasks and the technical aspects of projects.
 
--  In my free time, I go in for sports, watch films in English, read scientific books and articles. And I just like to have a good time with friends)
+- In the dynamic realm of data science and machine learning, I excel in assembling top-notch teams within Agile environments to create groundbreaking solutions for enterprises.
 
--  Top project in pin
+- I advocate for ambitious aspirations and aspire to foster even greater innovation. Embracing new challenges and collaborations is a constant for me. Let's connect and explore ways to positively impact the world!
 
+You can contact me:
+telegram: https://t.me/ngmdite (preferred)
+email: dima.savelko@gmail.com
 
 ## Languages and tools 🔧
 
