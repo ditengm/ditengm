@@ -13,19 +13,19 @@
 
 </div>
 
-Hey!
-- I am a Deep Learning Engineer-Researcher with 3 years of experience. Whether it's Machine Learning, Deep Learning, NLP/LLM, Computer Vision, or high-load system architecture, I'm dedicated to exploring and mastering these domains.
+---
 
-- I also have experience leading AI teams and executing client projects, from researching the target audience and writing technical specifications to building ML systems and validating models. As a result, I am well-versed in both business tasks and the technical aspects of projects.
+I'm an experienced **ML/LLM Engineer** with over **5 years** of expertise in designing and deploying end-to-end machine learning systems, particularly in the field of **Generative AI**.
 
-- In the dynamic realm of data science and machine learning, I excel in assembling top-notch teams within Agile environments to create groundbreaking solutions for enterprises.
+- Built and fine-tuned large language models from **7B to 80B parameters** (LLaMA, QWEN, Mistral, StarLing) for tasks like text generation, ranking, classification, and RLHF.
+- Developed internal AI platforms and scalable infrastructure using **vLLM, FastAPI, Docker, Kubernetes, RabbitMQ**, and deployed models in production for high-load environments.
+- Integrated reward modeling, custom loss functions, and cutting-edge training techniques such as **PEFT, LoRA, DPO, ORPO, KTO, SimPO**.
+- Experienced in **LLM system architecture**, from tokenizer extension and distillation to API design and inference optimization.
+- Built recommender systems and NLP pipelines with real-world business impact, increasing key metrics such as **user retention by 7%** and **reducing manual content generation time by 23%**.
 
-- I advocate for ambitious aspirations and aspire to foster even greater innovation. Embracing new challenges and collaborations is a constant for me. Let's connect and explore ways to positively impact the world!
+Always exploring new state-of-the-art methods and turning research into practical solutions.
 
-You can contact me:
-telegram: https://t.me/ngmdite (preferred)
-email: dima.savelko@gmail.com
-
+---
 ## Languages and tools 🔧
 
 <div align="center">
@@ -46,11 +46,7 @@ email: dima.savelko@gmail.com
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0b0038?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriysavelko/)
-[![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ditengm)
-[![Instagram](https://img.shields.io/badge/Instagram-0b0038?style=for-the-badge&logo=Instagram&logoColor=#ab46e3)](https://www.instagram.com/ditengm/)
-[![Vkontakte](https://img.shields.io/badge/Instagram-0b0038?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/dsvlko)
-[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?pli=1#inbox)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0b0038?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-savelko-014134361/)
 
 </div>
 
